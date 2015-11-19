@@ -1,2 +1,2 @@
-test branch file
+test branch file with first line modified
 test branch file merged to master
